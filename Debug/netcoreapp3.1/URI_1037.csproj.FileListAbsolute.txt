@@ -1,0 +1,7 @@
+C:\Program Files\Git\build_output\URI_1037.exe
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1037\obj\Debug\netcoreapp3.1\URI_1037.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1037\obj\Debug\netcoreapp3.1\URI_1037.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1037\obj\Debug\netcoreapp3.1\URI_1037.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1037\obj\Debug\netcoreapp3.1\URI_1037.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1037\obj\Debug\netcoreapp3.1\URI_1037.dll
+C:\Users\PICHAU\Documents\Lógica de programação\URI_1037\obj\Debug\netcoreapp3.1\URI_1037.pdb
